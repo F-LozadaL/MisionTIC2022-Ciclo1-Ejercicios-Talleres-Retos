@@ -1,5 +1,3 @@
-from socket import MsgFlag
-from sqlite3 import InterfaceError
 
 
 def eje1 (nota:float):
