@@ -50,21 +50,21 @@ def eje5():
 
 def eje6_1():
     my_floats = [4.35, 6.09, 3.25, 9.77, 2.16, 8.88, 4.59]
-    map_result = list(map(lambda x: round(x**2,3), my_floats)) # Arreglar esta instrucción
-    print(map_result)
+    map_result = list(map(lambda x: round(x**2,3), my_floats)) 
+    print (map_result)
     
 # eje6_1()
 
 def eje6_2():
     my_names = ["olumide", "akinremi", "josiah", "temidayo", "omoseun"]
-    filter_result = list(filter(lambda name: len(name)<=7, my_names)) # Arreglar esta instrucción
+    filter_result = list(filter(lambda name: len(name)<=7, my_names)) 
     print(filter_result)
     
 # eje6_2()
 
 def eje6_3():
     my_numbers = [4, 6, 9, 23, 5]
-    reduce_result = reduce(lambda num1, num2: num1 * num2, my_numbers) # Arreglar esta instrucción
+    reduce_result = reduce(lambda num1, num2: num1 * num2, my_numbers) 
     print(reduce_result)
     
 # eje6_3()
