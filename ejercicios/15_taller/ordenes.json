@@ -1,0 +1,11 @@
+{
+    "0":{
+        "precio":0,
+        "Sopa":"Sancocho",
+        "Principio":"",
+        "Carne":"Cerdo",
+        "Ensalada":false,
+        "Jugo":"Mora",
+        "Descripcion":"Este es una orden de test"
+    }
+}

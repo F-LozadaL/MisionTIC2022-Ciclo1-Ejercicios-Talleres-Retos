@@ -45,6 +45,5 @@ print()
 
 #EJE 8
 # sumat = 0
-# b=a[:2]
-# dim_b=b.shape
+# b=a[0:2]
 # print(np.mean(b))

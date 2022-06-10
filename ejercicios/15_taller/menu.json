@@ -1,0 +1,22 @@
+{
+    "Sopa": {
+        "Sancocho": 3000,
+        "Ajiaco": 2500
+    },
+    "Principio": {
+        "Alberjas": 1500,
+        "lentejas": 1200
+    },
+    "Carne": {
+        "Pollo": 3000,
+        "Carne": 3500,
+        "Cerdo": 3200
+    },
+    "Ensalada": 1000,
+    "Jugo": [
+        "Mango",
+        "Maracuya",
+        "Mora",
+        500
+    ]
+}
